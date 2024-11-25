@@ -1,4 +1,4 @@
-# Text-Detection-Python-easyocr
+# Text Detection
 
 Created a optical character recognition algorithm using Python, OpenCV and EasyOCR 
 
